@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satvik Varun</h1>
-<h3 align="center">Software Dveloper student</h3>
+<h3 align="center">Software Developer student</h3>
 <img align="right" alt="coding" width="300" src="https://i.imgur.com/VhlQK.gif?noredirect">
 
 
